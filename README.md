@@ -1,5 +1,5 @@
 # SCP:  Secret Labs - NYplugin
-[![downloads](https://img.shields.io/github/downloads/Vretu-Dev/UsefulHints/total?style=for-the-badge&logo=icloud&color=%233A6D8C)](https://github.com/nanyuan222/NYserver-plugins/releases/tag/v1.0))
+[![downloads](https://img.shields.io/github/downloads/Vretu-Dev/UsefulHints/total?style=for-the-badge&logo=icloud&color=%233A6D8C)](https://github.com/nanyuan222/NYserver-plugins/releases/tag/v1.0)
 
 ## Installation
 - Make sure you have the [EXILED framework] installed
@@ -8,7 +8,6 @@
 - Restart or reload your server
   
 ## 中文-NYserver
-包含如下内容
 1.[.c]团体聊天[.bc]全局聊天
 2.kill自杀命令
 3.保安下班
