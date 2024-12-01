@@ -1,5 +1,5 @@
 # SCP:  Secret Labs - NYplugin
-![downloads](https://img.shields.io/github/downloads/Vretu-Dev/UsefulHints/total?style=for-the-badge&logo=icloud&color=%233A6D8C)(https://github.com/nanyuan222/NYserver-plugins/releases/tag/v1.0))
+[![downloads](https://img.shields.io/github/downloads/Vretu-Dev/UsefulHints/total?style=for-the-badge&logo=icloud&color=%233A6D8C)](https://github.com/nanyuan222/NYserver-plugins/releases/tag/v1.0))
 
 ## Installation
 - Make sure you have the [EXILED framework] installed
