@@ -1,5 +1,5 @@
 # SCP:  Secret Labs - NYplugin
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+[![downloads](https://img.shields.io/github/downloads/Vretu-Dev/UsefulHints/total?style=for-the-badge&logo=icloud&color=%233A6D8C)]
 
 ## Installation
 - Make sure you have the [EXILED framework] installed
