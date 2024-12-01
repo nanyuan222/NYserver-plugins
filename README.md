@@ -9,8 +9,11 @@
   
 ## 中文-NYserver
 1.[.c]团体聊天[.bc]全局聊天
+
 2.kill自杀命令
+
 3.保安下班
+
 4.SCP血量显示系统
 
 ## English-plugin
