@@ -8,19 +8,23 @@
 - Restart or reload your server
   
 ## 中文-NYserver
-1.[.c]团体聊天[.bc]全局聊天
-
-2.kill自杀命令
-
-3.保安下班
-
-4.SCP血量显示系统
-
+- [.c]团体聊天[.bc]全局聊天、
+- [.kill]自杀命令
+- 保安下班
+- SCP血量显示系统
+- 可乐免伤
+- 自动清理系统
+- 小游戏-level ！
+  
 ## English-plugin
 1. [. c] Group chat [. bc] Global chat
 2. Kill suicide order
 3. Security personnel leaving work
 4. SCP Blood Volume Display System
-   
-## 联系我
+5. SCP207 damage free feature
+6. automatic cleaning system
+7. mini game--- level ！
+8. Command [.tps]
+
+## Contact me
 QQ-1801665309
